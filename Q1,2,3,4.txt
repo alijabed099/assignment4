@@ -1,0 +1,120 @@
+﻿1. List out the features of HTML5 ?
+       Ans : HTML5 introduced several new features and enhancements for web development. Here are some of its key features below:--
+
+
+1.  Semantic Elements : HTML5 introduced semantic elements like <header>, <nav>, <footer>, and <article> to provide better structure and meaning to web documents.
+
+
+2.  Audio and Video Support : HTML5 introduced the <audio> and <video> elements for native audio and video playback without the need for plugins like Flash.
+
+
+3. Canvas : The <canvas> element allows for dynamic rendering of graphics, animations, and games using JavaScript.
+
+
+4.  SVG Support : HTML5 has better support for Scalable Vector Graphics (SVG), enabling the creation of resolution-independent graphics.
+
+
+5.  Local Storage : The localStorage and sessionStorage APIs allow web applications to store data on the client side, enabling offline web applications.
+
+
+6.  Geolocation : HTML5 includes the Geolocation API, which allows websites to access the user's location with their permission.
+
+
+7.  Web Workers : Web Workers enable multi-threading in web applications, allowing for better performance by running scripts in the background.
+
+
+8.  Web Sockets : HTML5 introduced the WebSocket API for real-time, bidirectional communication between the client and server.
+
+
+9. Improved Accessibility : HTML5 includes accessibility features like ARIA (Accessible Rich Internet Applications) attributes to make web content more accessible to people with disabilities.
+
+
+10. Offline Applications: HTML5 introduced the Application Cache API, which allows web applications to work offline by caching resources.
+
+
+11. Drag and Drop : HTML5 includes native support for drag-and-drop interactions, making it easier to implement intuitive user interfaces.
+
+
+12. Cross-document Messaging: The postMessage API enables secure cross-origin communication between windows or iframes.
+
+
+13. Improved Performance : HTML5 and its associated technologies aim to improve the performance of web applications, reducing the need for browser plugins and enhancing overall speed.
+
+
+14. Web Storage : HTML5 introduced the localStorage and sessionStorage APIs for client-side storage, offering a better alternative to cookies for storing data.
+
+
+2.What are HTML Entities? List out 5 commonly used HTML entities?
+Ans :HTML entities are special codes used in HTML to represent characters that have a specific meaning or might not be easily represented directly in HTML. They are used to display reserved characters, symbols, or characters with special meanings correctly in web pages. 
+
+
+Here are five commonly used HTML entities:
+
+
+              1. &lt; - Represents the less-than sign (<).
+              2. &gt; - Represents the greater-than sign (>).
+              3. &amp; - Represents the ampersand (&).
+              4. &quot; - Represents a double quotation mark (").
+              5. &apos; - Represents a single quotation mark or apostrophe (').
+
+
+3.Define accessibility in the context of web development. Discuss why it's essential to create accessible websites and how it benefits different user groups?
+Ans :Accessibility in web development refers to the practice of designing and developing websites and web applications in a way that ensures equal access and usability for all individuals, regardless of their disabilities or impairments. It involves making digital content and user interfaces perceivable, operable, understandable, and robust, so that people with disabilities can access, navigate, and interact with web content effectively. 
+
+
+Here's why creating accessible websites is essential:
+
+
+1.  Inclusivity : Accessible websites ensure that all users, regardless of their abilities, can access and use the content and features. 
+
+
+2.  Legal and Ethical Compliance : Many countries have laws and regulations, such as the Americans with Disabilities Act (ADA) in the United States, that require websites to be accessible. Failure to comply can result in legal consequences. Beyond legal obligations, it's also considered an ethical responsibility.
+
+
+3.  Wider Audience : An accessible website extends its reach to a broader audience, including people with disabilities, the elderly, and those using different devices or assistive technologies. 
+
+
+4.  Improved SEO : Many accessibility practices align with good SEO practices. Well-structured, semantically meaningful content can enhance search engine rankings, benefiting all users, including those with disabilities.
+
+
+5.  Better User Experience : Accessibility improvements often lead to a better user experience for everyone. Clear navigation, consistent design, and well-organized content benefit all users, not just those with disabilities.
+
+
+6.  Future-Proofing : As technology evolves, accessible websites are more likely to adapt and remain functional.
+
+
+7.  Corporate Image : Demonstrating a commitment to accessibility enhances your organization's reputation and shows that you value diversity and inclusion.
+
+
+Accessibility benefits includes :
+
+
+1. Visually Impaired Users : Screen readers can convert text into speech or Braille, making web content accessible to those with vision impairments.
+
+
+2.  Hearing Impaired Users : Subtitles, transcripts, and captions for multimedia content ensure that users with hearing impairments can access information.
+
+
+3. Motor Impairments : Keyboard navigation and sufficient clickable targets benefit users with motor impairments who may rely on alternative input devices.
+
+
+4. Cognitive Disabilities : Clear and simple language, well-organized content, and consistent design help users with cognitive disabilities better comprehend and interact with websites.
+
+
+5 .Aging Population : As people age, they may experience diminished vision, hearing, or motor skills. Accessible websites cater to this demographic as well.
+
+
+
+
+4. List any 3 ways which help us in improving the accessibility of HTML?
+Ans : Improving the accessibility of HTML involves making web content more inclusive and usable for individuals with disabilities. Here are three key ways to enhance accessibility in HTML:
+
+
+1.  Use Semantic HTML Elements : Semantic HTML elements provide meaning to the structure of your web content. By using these elements appropriately, you can improve accessibility.  
+                 Semantic elements not only help screen readers and assistive technologies understand your content better but also improve the overall structure of your webpage.
+
+
+2.  Provide Alt Text for Images : The alt attribute in the <img> tag allows you to provide alternative text for images. This text should describe the content or function of the image, especially for those who cannot see it. Screen readers rely on alt text to convey the meaning of images to visually impaired users.   
+
+
+3.  Ensure Keyboard Accessibility : Make sure that all interactive elements and navigation on your website can be operated using a keyboard alone. This is critical for users who rely on keyboard navigation or assistive technologies like screen readers. To achieve keyboard accessibility:
